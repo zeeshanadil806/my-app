@@ -5,7 +5,7 @@ import React from 'react'
 export default function ItemsList() {
   return (
     <div>
-      A
+      
     </div>
   )
 }
